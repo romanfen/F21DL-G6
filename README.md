@@ -3,8 +3,8 @@
 ### Week 1 - Introduction
  - Got introduced to the team members as well as the lab supervisor.
  - Decided on a dataset to start working on for the lab excercises.
- - We decided on using a dataset for the top 2000 universities in the world (https://www.kaggle.com/datasets
-   /batrosjamali/top-2000-universities-of-the-world)
+ - We decided on using a dataset for the top 2000 universities in the world 
+   (https://www.kaggle.com/datasets/batrosjamali/top-2000-universities-of-the-world)
  - We decided to use thi dataset as it had a sizeable amount of attributes and features that we could 
    use to train and test the dataset.
    
