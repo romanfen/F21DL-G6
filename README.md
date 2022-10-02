@@ -4,7 +4,7 @@
  - Got introduced to the team members as well as the lab supervisor.
  - Decided on a dataset to start working on for the lab excercises.
  - We decided on using a dataset for the top 2000 universities in the world (https://www.kaggle.com/datasets
-   /batrosjamali/top-2000-universities-of-the-     world)
+   /batrosjamali/top-2000-universities-of-the-world)
  - We decided to use thi dataset as it had a sizeable amount of attributes and features that we could 
    use to train and test the dataset.
    
@@ -19,7 +19,6 @@
  - We found out after removing all records that contained missing data we were left with only 161 instances.
  - After discussing with our lab supervisor we found this to be too few data instances to work with and hence had
    look for a new dataset to work with.
- - We found a dataset that tracks the performance of students from 2 Portuguese schools (https://www.kaggle.com/
-   datasets/whenamancodes/student-performance)
+ - We found a dataset that tracks the performance of students from 2 Portuguese schools (https://www.kaggle.com/datasets/whenamancodes/student-performance)
  - We picked this dataset as it has no missing values and is very sizeable.
  
